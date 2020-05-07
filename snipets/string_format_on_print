@@ -1,0 +1,7 @@
+format_spec ::=  [[fill]align][sign][#][0][width][,][.precision][type]
+fill        ::=  <any character>
+align       ::=  "<" | ">" | "=" | "^"
+sign        ::=  "+" | "-" | " "
+width       ::=  integer
+precision   ::=  integer
+type        ::=  "b" | "c" | "d" | "e" | "E" | "f" | "F" | "g" | "G" | "n" | "o" | "s" | "x" | "X" | "%"
