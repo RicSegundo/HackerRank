@@ -1,6 +1,8 @@
+import time
 
-
-s = 'aaabccddd'
+start = time.time()
+# s = 'aaabccddd'
+s = 'zztqooauhujtmxnsbzpykwlvpfyqijvdhuhiroodmuxiobyvwwxupqwydkpeebxmfvxhgicuzdealkgxlfmjiucasokrdznmtlwh'
 
 
 def superReducedString(s):
@@ -22,4 +24,6 @@ def superReducedString(s):
 
 if __name__ == '__main__':
     superReducedString(s)
+
+print(time.time() - start)
 
