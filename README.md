@@ -1,3 +1,3 @@
 # HackerRank
 
-Repository to store the python 3 solutions of the HackerRank challenges solved
+Repository to store the python 3 solutions of the HackerRank challenges I have solved
